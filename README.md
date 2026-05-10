@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Banner" width="100%" />
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Banner" width="100%" />
 
 ## 🧠 My Focus Areas
 - Backend development
@@ -80,11 +80,6 @@
 
 </p>
 
-<!-- <p align="center">
-  <a href="https://github.com/bisanjeet109">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bisanjeet109&langs_count=8&layout=compact&theme=dark&border_radius=10" alt="Top Languages" />
-  </a>
-</p> -->
 
 ## 🔗 Connect with Me
 <p align="center">
